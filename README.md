@@ -1,12 +1,26 @@
-# React + Vite
+# 🍸 Cocktails Art - Animated Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An immersive, animated cocktails-themed landing page built with HTML, CSS, JavaScript, and GSAP. This project showcases fluid animations, scroll-triggered effects, and interactive UI elements designed for a modern web experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🎬 **GSAP Animations** – Smooth transitions, entrance effects, and timeline-based animation sequences
+- 🌀 **ScrollTrigger Effects** – Dynamic content reveal as the user scrolls
+- 📱 **Responsive Design** – Optimized layout for desktop and mobile devices
+- 🖱️ **Interactive UI** – Hover effects and animated interactions for a premium feel
+- 🎨 **Creative Layout** – Visually rich sections themed around cocktails
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+![image](https://github.com/user-attachments/assets/d3cbe8a8-6b2c-4685-ab81-84880580185f) 
+<br>
+![image](https://github.com/user-attachments/assets/c0a2eb3e-51f6-41d5-804a-5dcc9e1c6b2e)
+<br>
+![image](https://github.com/user-attachments/assets/1b519cd9-a7f6-49d5-b35a-a005018935ff)
+<br>
+![image](https://github.com/user-attachments/assets/4829ee8a-67cb-4d9f-813a-5fdcca5ed2c3)
+
+
